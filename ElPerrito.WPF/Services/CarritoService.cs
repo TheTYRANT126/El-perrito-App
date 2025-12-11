@@ -1,0 +1,198 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using ElPerrito.Data.Context;
+using ElPerrito.Data.Entities;
+using ElPerrito.WPF.Models;
+using Microsoft.EntityFrameworkCore;
+
+namespace ElPerrito.WPF.Services
+{
+    public class CarritoService
+    {
+        public async Task<List<CarritoItemViewModel>> CargarCarritoCliente(int clienteId)
+        {
+            try
+            {
+                using var context = new ElPerritoContext();
+
+                // Buscar carrito activo del cliente
+                var carrito = await context.Carritos
+                    .Include(c => c.DetalleCarritos)
+                    .ThenInclude(d => d.IdProductoNavigation)
+                    .ThenInclude(p => p.ProductoImagens)
+                    .Where(c => c.IdCliente == clienteId && c.Estado == "activo")
+                    .FirstOrDefaultAsync();
+
+                if (carrito == null)
+                {
+                    return new List<CarritoItemViewModel>();
+                }
+
+                // Convertir los detalles del carrito a ViewModels
+                var items = carrito.DetalleCarritos.Select(d => new CarritoItemViewModel
+                {
+                    IdItem = d.IdItem,
+                    IdProducto = d.IdProducto,
+                    NombreProducto = d.IdProductoNavigation.Nombre,
+                    ImagenProducto = d.IdProductoNavigation.ProductoImagens.FirstOrDefault()?.Url ?? "/Assets/Images/placeholder.png",
+                    PrecioUnitario = d.PrecioUnitario,
+                    Cantidad = d.Cantidad
+                }).ToList();
+
+                return items;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Error al cargar carrito: {ex.Message}", ex);
+            }
+        }
+
+        public async Task<int> GuardarCarritoCliente(int clienteId, List<CarritoItemViewModel> items)
+        {
+            try
+            {
+                using var context = new ElPerritoContext();
+
+                // Buscar carrito activo del cliente o crear uno nuevo
+                var carrito = await context.Carritos
+                    .Include(c => c.DetalleCarritos)
+                    .Where(c => c.IdCliente == clienteId && c.Estado == "activo")
+                    .FirstOrDefaultAsync();
+
+                if (carrito == null)
+                {
+                    // Crear nuevo carrito
+                    carrito = new Carrito
+                    {
+                        IdCliente = clienteId,
+                        Estado = "activo",
+                        FechaCreacion = DateTime.Now
+                    };
+                    context.Carritos.Add(carrito);
+                    await context.SaveChangesAsync();
+                }
+                else
+                {
+                    // Limpiar detalles existentes
+                    context.DetalleCarritos.RemoveRange(carrito.DetalleCarritos);
+                }
+
+                // Agregar los items actuales
+                foreach (var item in items)
+                {
+                    var detalle = new DetalleCarrito
+                    {
+                        IdCarrito = carrito.IdCarrito,
+                        IdProducto = item.IdProducto,
+                        Cantidad = item.Cantidad,
+                        PrecioUnitario = item.PrecioUnitario
+                    };
+                    context.DetalleCarritos.Add(detalle);
+                }
+
+                await context.SaveChangesAsync();
+                return carrito.IdCarrito;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Error al guardar carrito: {ex.Message}", ex);
+            }
+        }
+
+        public async Task VaciarCarritoCliente(int clienteId)
+        {
+            try
+            {
+                using var context = new ElPerritoContext();
+
+                var carrito = await context.Carritos
+                    .Include(c => c.DetalleCarritos)
+                    .Where(c => c.IdCliente == clienteId && c.Estado == "activo")
+                    .FirstOrDefaultAsync();
+
+                if (carrito != null)
+                {
+                    context.DetalleCarritos.RemoveRange(carrito.DetalleCarritos);
+                    await context.SaveChangesAsync();
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Error al vaciar carrito: {ex.Message}", ex);
+            }
+        }
+
+        public async Task<int> CrearVentaDesdeCarrito(int clienteId, List<CarritoItemViewModel> items)
+        {
+            try
+            {
+                using var context = new ElPerritoContext();
+                using var transaction = await context.Database.BeginTransactionAsync();
+
+                try
+                {
+                    // Crear la venta
+                    var venta = new Ventum
+                    {
+                        IdCliente = clienteId,
+                        Fecha = DateTime.Now,
+                        Total = items.Sum(i => i.Subtotal),
+                        EstadoPago = "pendiente",
+                        EstadoEnvio = "pendiente"
+                    };
+                    context.Venta.Add(venta);
+                    await context.SaveChangesAsync();
+
+                    // Crear los detalles de venta
+                    foreach (var item in items)
+                    {
+                        var detalle = new DetalleVentum
+                        {
+                            IdVenta = venta.IdVenta,
+                            IdProducto = item.IdProducto,
+                            Cantidad = item.Cantidad,
+                            PrecioUnitario = item.PrecioUnitario
+                        };
+                        context.DetalleVenta.Add(detalle);
+
+                        // Actualizar inventario
+                        var inventario = await context.Inventarios
+                            .Where(i => i.IdProducto == item.IdProducto)
+                            .FirstOrDefaultAsync();
+
+                        if (inventario != null)
+                        {
+                            inventario.Stock -= item.Cantidad;
+                        }
+                    }
+
+                    // Cerrar el carrito activo del cliente
+                    var carrito = await context.Carritos
+                        .Where(c => c.IdCliente == clienteId && c.Estado == "activo")
+                        .FirstOrDefaultAsync();
+
+                    if (carrito != null)
+                    {
+                        carrito.Estado = "cerrado";
+                    }
+
+                    await context.SaveChangesAsync();
+                    await transaction.CommitAsync();
+
+                    return venta.IdVenta;
+                }
+                catch
+                {
+                    await transaction.RollbackAsync();
+                    throw;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Error al crear venta: {ex.Message}", ex);
+            }
+        }
+    }
+}

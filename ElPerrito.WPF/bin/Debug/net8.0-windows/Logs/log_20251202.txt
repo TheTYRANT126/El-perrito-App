@@ -1,0 +1,121 @@
+[2025-12-02 09:15:57] [INFO] MainViewModel iniciado
+[2025-12-02 09:15:57] [INFO] MainWindow cargada
+[2025-12-02 09:16:06] [INFO] Navegando a Productos
+[2025-12-02 09:16:07] [INFO] Navegando a Ventas
+[2025-12-02 09:16:07] [INFO] Navegando a Reportes
+[2025-12-02 09:16:08] [INFO] Navegando a Configuración
+[2025-12-02 09:16:09] [INFO] Cerrando aplicación
+[2025-12-02 09:16:09] [INFO] MainWindow cerrada
+[2025-12-02 09:16:13] [INFO] MainViewModel iniciado
+[2025-12-02 09:16:14] [INFO] MainWindow cargada
+[2025-12-02 09:16:26] [INFO] Navegando a Productos
+[2025-12-02 09:16:35] [INFO] Navegando a Ventas
+[2025-12-02 09:16:38] [INFO] Navegando a Reportes
+[2025-12-02 09:16:39] [INFO] Navegando a Configuración
+[2025-12-02 09:16:41] [INFO] Navegando a Configuración
+[2025-12-02 09:16:42] [INFO] Navegando a Reportes
+[2025-12-02 09:16:43] [INFO] Navegando a Ventas
+[2025-12-02 09:16:43] [INFO] Navegando a Productos
+[2025-12-02 09:16:52] [INFO] Navegando a Productos
+[2025-12-02 09:16:53] [INFO] Navegando a Ventas
+[2025-12-02 09:16:54] [INFO] Navegando a Reportes
+[2025-12-02 09:29:46] [INFO] MainWindow cerrada
+[2025-12-02 09:45:50] [INFO] MainViewModel iniciado
+[2025-12-02 09:45:50] [INFO] Mostrando vista de inicio
+[2025-12-02 09:45:50] [INFO] MainWindow cargada
+[2025-12-02 09:45:55] [INFO] Navegando a Productos
+[2025-12-02 09:46:17] [INFO] MainViewModel iniciado
+[2025-12-02 09:46:17] [INFO] Mostrando vista de inicio
+[2025-12-02 09:46:17] [INFO] MainWindow cargada
+[2025-12-02 09:46:19] [INFO] Navegando a Productos
+[2025-12-02 09:46:55] [INFO] MainViewModel iniciado
+[2025-12-02 09:46:55] [INFO] Mostrando vista de inicio
+[2025-12-02 09:46:55] [INFO] MainWindow cargada
+[2025-12-02 09:47:01] [INFO] Navegando a Productos
+[2025-12-02 09:48:03] [INFO] MainViewModel iniciado
+[2025-12-02 09:48:03] [INFO] Mostrando vista de inicio
+[2025-12-02 09:48:03] [INFO] MainWindow cargada
+[2025-12-02 09:48:07] [INFO] Navegando a Productos
+[2025-12-02 09:54:53] [INFO] MainViewModel iniciado
+[2025-12-02 09:54:53] [INFO] Mostrando vista de inicio
+[2025-12-02 09:54:53] [INFO] MainWindow cargada
+[2025-12-02 09:54:56] [INFO] Navegando a Productos
+[2025-12-02 09:55:07] [INFO] Navegando a Ventas
+[2025-12-02 09:55:09] [INFO] Navegando a Reportes
+[2025-12-02 09:55:10] [INFO] Navegando a Configuración
+[2025-12-02 09:55:27] [INFO] Cerrando aplicación
+[2025-12-02 09:55:27] [INFO] MainWindow cerrada
+[2025-12-02 09:55:33] [INFO] MainViewModel iniciado
+[2025-12-02 09:55:33] [INFO] Mostrando vista de inicio
+[2025-12-02 09:55:33] [INFO] MainWindow cargada
+[2025-12-02 09:55:39] [INFO] Navegando a Productos
+[2025-12-02 09:55:49] [INFO] Navegando a Configuración
+[2025-12-02 09:55:50] [INFO] Navegando a Reportes
+[2025-12-02 09:55:51] [INFO] Navegando a Ventas
+[2025-12-02 09:55:53] [INFO] Navegando a Productos
+[2025-12-02 09:56:56] [INFO] Navegando a Ventas
+[2025-12-02 09:56:57] [INFO] Navegando a Reportes
+[2025-12-02 09:56:58] [INFO] Navegando a Configuración
+[2025-12-02 09:57:05] [INFO] Navegando a Reportes
+[2025-12-02 09:57:26] [INFO] Navegando a Productos
+[2025-12-02 09:58:26] [INFO] Navegando a Reportes
+[2025-12-02 09:58:28] [INFO] Navegando a Ventas
+[2025-12-02 11:15:15] [INFO] MainViewModel iniciado
+[2025-12-02 11:15:15] [INFO] Mostrando vista de inicio
+[2025-12-02 11:15:15] [INFO] MainWindow cargada
+[2025-12-02 11:15:20] [INFO] Navegando a Ventas
+[2025-12-02 11:15:22] [INFO] Navegando a Reportes
+[2025-12-02 11:15:37] [INFO] Navegando a Productos
+[2025-12-02 11:16:08] [INFO] Navegando a Ventas
+[2025-12-02 11:16:14] [INFO] Navegando a Configuración
+[2025-12-02 11:16:22] [INFO] Navegando a Configuración
+[2025-12-02 11:16:23] [INFO] Cerrando aplicación
+[2025-12-02 11:16:23] [INFO] MainWindow cerrada
+[2025-12-02 11:26:53] [INFO] MainViewModel iniciado
+[2025-12-02 11:26:53] [INFO] Mostrando vista de inicio
+[2025-12-02 11:26:53] [INFO] MainWindow cargada
+[2025-12-02 11:27:00] [INFO] Navegando a Productos
+[2025-12-02 12:01:50] [INFO] MainWindow cerrada
+[2025-12-02 14:12:38] [INFO] MainViewModel iniciado
+[2025-12-02 14:12:38] [INFO] Mostrando vista de inicio
+[2025-12-02 14:12:39] [INFO] MainWindow cargada
+[2025-12-02 14:12:47] [INFO] Navegando a Tienda
+[2025-12-02 14:13:01] [INFO] Navegando a Carrito
+[2025-12-02 14:13:03] [INFO] Navegando a Tienda
+[2025-12-02 14:13:11] [INFO] Navegando a Configuración
+[2025-12-02 14:13:26] [INFO] Navegando a Carrito
+[2025-12-02 14:13:26] [INFO] Navegando a Tienda
+[2025-12-02 14:13:41] [INFO] Navegando a Configuración
+[2025-12-02 14:13:50] [INFO] Navegando a Reportes
+[2025-12-02 14:13:52] [INFO] Navegando a Ventas
+[2025-12-02 14:14:00] [INFO] Navegando a Ventas
+[2025-12-02 14:14:01] [INFO] Navegando a Productos
+[2025-12-02 14:14:09] [INFO] Navegando a Carrito
+[2025-12-02 14:14:09] [INFO] Navegando a Tienda
+[2025-12-02 14:14:17] [INFO] MainWindow cerrada
+[2025-12-02 14:26:28] [INFO] MainViewModel iniciado
+[2025-12-02 14:26:38] [INFO] Mostrando vista de inicio
+[2025-12-02 14:26:38] [INFO] MainWindow cargada
+[2025-12-02 14:26:40] [INFO] Navegando a Tienda
+[2025-12-02 14:26:42] [INFO] MainWindow cerrada
+[2025-12-02 14:30:49] [INFO] MainViewModel iniciado
+[2025-12-02 14:30:51] [INFO] Mostrando vista de inicio
+[2025-12-02 14:30:51] [INFO] MainWindow cargada
+[2025-12-02 14:30:55] [INFO] Navegando a Tienda
+[2025-12-02 14:31:06] [INFO] Navegando a Carrito
+[2025-12-02 14:31:06] [INFO] Navegando a Tienda
+[2025-12-02 14:31:11] [INFO] Navegando a Carrito
+[2025-12-02 14:31:18] [INFO] Navegando a Tienda
+[2025-12-02 14:31:35] [INFO] Navegando a Productos
+[2025-12-02 14:31:36] [INFO] Navegando a Ventas
+[2025-12-02 14:31:37] [INFO] Navegando a Reportes
+[2025-12-02 14:31:38] [INFO] Navegando a Configuración
+[2025-12-02 14:31:39] [INFO] Cerrando aplicación
+[2025-12-02 14:31:39] [INFO] MainWindow cerrada
+[2025-12-02 14:31:43] [INFO] MainViewModel iniciado
+[2025-12-02 14:31:45] [INFO] Mostrando vista de inicio
+[2025-12-02 14:31:45] [INFO] MainWindow cargada
+[2025-12-02 14:31:48] [INFO] Navegando a Productos
+[2025-12-02 14:31:54] [INFO] Navegando a Productos
+[2025-12-02 14:31:55] [INFO] Navegando a Productos
+[2025-12-02 14:31:58] [INFO] MainWindow cerrada

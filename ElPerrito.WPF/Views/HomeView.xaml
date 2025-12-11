@@ -1,0 +1,213 @@
+<UserControl x:Class="ElPerrito.WPF.Views.HomeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d"
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+
+            <!-- Panel de información -->
+            <Border Background="#3498DB" CornerRadius="8" Padding="30" Margin="0,0,0,20">
+                <StackPanel>
+                    <TextBlock Text="🎉 Sistema El Perrito"
+                             FontSize="24"
+                             FontWeight="Bold"
+                             Foreground="White"
+                             HorizontalAlignment="Center"
+                             Margin="0,0,0,10"/>
+
+                    <TextBlock Text="E-commerce con 20 Patrones de Diseño"
+                             FontSize="16"
+                             Foreground="White"
+                             HorizontalAlignment="Center"
+                             Margin="0,0,0,5"/>
+
+                    <TextBlock Text="Desarrollado en C# .NET 8.0 con WPF"
+                             FontSize="14"
+                             Foreground="#ECF0F1"
+                             HorizontalAlignment="Center"/>
+                </StackPanel>
+            </Border>
+
+            <!-- Información de patrones implementados -->
+            <Border Background="White" BorderBrush="#BDC3C7" BorderThickness="2"
+                    CornerRadius="8" Padding="20" Margin="0,0,0,20">
+                <StackPanel>
+                    <TextBlock Text="✨ Patrones Implementados:"
+                             FontSize="18"
+                             FontWeight="Bold"
+                             Foreground="#2C3E50"
+                             Margin="0,0,0,10"/>
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Grid.Column="0" Margin="0,0,10,0">
+                            <TextBlock Text="• Singleton" Margin="0,2"/>
+                            <TextBlock Text="• Factory Method" Margin="0,2"/>
+                            <TextBlock Text="• Abstract Factory" Margin="0,2"/>
+                            <TextBlock Text="• Builder" Margin="0,2"/>
+                            <TextBlock Text="• Prototype" Margin="0,2"/>
+                            <TextBlock Text="• Adapter" Margin="0,2"/>
+                            <TextBlock Text="• Bridge" Margin="0,2"/>
+                            <TextBlock Text="• Composite" Margin="0,2"/>
+                            <TextBlock Text="• Decorator" Margin="0,2"/>
+                            <TextBlock Text="• Facade" Margin="0,2"/>
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="1">
+                            <TextBlock Text="• Proxy" Margin="0,2"/>
+                            <TextBlock Text="• Command" Margin="0,2"/>
+                            <TextBlock Text="• Iterator" Margin="0,2"/>
+                            <TextBlock Text="• Mediator" Margin="0,2"/>
+                            <TextBlock Text="• Memento" Margin="0,2"/>
+                            <TextBlock Text="• Observer" Margin="0,2"/>
+                            <TextBlock Text="• State" Margin="0,2"/>
+                            <TextBlock Text="• Strategy" Margin="0,2"/>
+                            <TextBlock Text="• Template Method" Margin="0,2"/>
+                            <TextBlock Text="• Visitor" Margin="0,2"/>
+                        </StackPanel>
+                    </Grid>
+                </StackPanel>
+            </Border>
+
+            <!-- Botones de acción rápida -->
+            <UniformGrid Columns="2" Rows="2" Width="400">
+                <Button Content="📦 Gestionar Productos"
+                        Command="{Binding DataContext.ShowProductsCommand, RelativeSource={RelativeSource AncestorType=Window}}"
+                        Background="#3498DB"
+                        Foreground="White"
+                        FontSize="14"
+                        FontWeight="Bold"
+                        Padding="15"
+                        Margin="5"
+                        Cursor="Hand"
+                        BorderThickness="0">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="Button">
+                                        <Border Background="{TemplateBinding Background}"
+                                                CornerRadius="5"
+                                                BorderThickness="0">
+                                            <ContentPresenter HorizontalAlignment="Center"
+                                                            VerticalAlignment="Center"/>
+                                        </Border>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#2980B9"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                </Button>
+
+                <Button Content="💰 Ver Ventas"
+                        Command="{Binding DataContext.ShowSalesCommand, RelativeSource={RelativeSource AncestorType=Window}}"
+                        Background="#2ECC71"
+                        Foreground="White"
+                        FontSize="14"
+                        FontWeight="Bold"
+                        Padding="15"
+                        Margin="5"
+                        Cursor="Hand"
+                        BorderThickness="0">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="Button">
+                                        <Border Background="{TemplateBinding Background}"
+                                                CornerRadius="5">
+                                            <ContentPresenter HorizontalAlignment="Center"
+                                                            VerticalAlignment="Center"/>
+                                        </Border>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#27AE60"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                </Button>
+
+                <Button Content="📊 Generar Reportes"
+                        Command="{Binding DataContext.ShowReportsCommand, RelativeSource={RelativeSource AncestorType=Window}}"
+                        Background="#E74C3C"
+                        Foreground="White"
+                        FontSize="14"
+                        FontWeight="Bold"
+                        Padding="15"
+                        Margin="5"
+                        Cursor="Hand"
+                        BorderThickness="0">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="Button">
+                                        <Border Background="{TemplateBinding Background}"
+                                                CornerRadius="5">
+                                            <ContentPresenter HorizontalAlignment="Center"
+                                                            VerticalAlignment="Center"/>
+                                        </Border>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#C0392B"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                </Button>
+
+                <Button Content="⚙️ Configuración"
+                        Command="{Binding DataContext.ShowSettingsCommand, RelativeSource={RelativeSource AncestorType=Window}}"
+                        Background="#95A5A6"
+                        Foreground="White"
+                        FontSize="14"
+                        FontWeight="Bold"
+                        Padding="15"
+                        Margin="5"
+                        Cursor="Hand"
+                        BorderThickness="0">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="Button">
+                                        <Border Background="{TemplateBinding Background}"
+                                                CornerRadius="5">
+                                            <ContentPresenter HorizontalAlignment="Center"
+                                                            VerticalAlignment="Center"/>
+                                        </Border>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#7F8C8D"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                </Button>
+            </UniformGrid>
+
+        </StackPanel>
+    </Grid>
+</UserControl>

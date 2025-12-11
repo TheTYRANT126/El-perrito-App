@@ -1,0 +1,114 @@
+[2025-12-03 09:22:40] [INFO] MainViewModel iniciado
+[2025-12-03 09:22:42] [INFO] Mostrando vista de inicio
+[2025-12-03 09:22:42] [INFO] MainWindow cargada
+[2025-12-03 09:22:52] [INFO] Navegando a Tienda
+[2025-12-03 09:22:53] [INFO] Navegando a Tienda
+[2025-12-03 09:23:02] [INFO] Navegando a Carrito
+[2025-12-03 09:23:10] [INFO] Navegando a Productos
+[2025-12-03 09:23:11] [INFO] Navegando a Ventas
+[2025-12-03 09:23:12] [INFO] Navegando a Reportes
+[2025-12-03 09:23:13] [INFO] Navegando a Configuración
+[2025-12-03 09:23:14] [INFO] Navegando a Reportes
+[2025-12-03 09:23:16] [INFO] Navegando a Ventas
+[2025-12-03 09:23:19] [INFO] Navegando a Productos
+[2025-12-03 09:23:20] [INFO] Navegando a Ventas
+[2025-12-03 09:23:21] [INFO] Navegando a Productos
+[2025-12-03 09:23:25] [INFO] Navegando a Configuración
+[2025-12-03 09:23:26] [INFO] Navegando a Reportes
+[2025-12-03 09:23:27] [INFO] Navegando a Ventas
+[2025-12-03 09:23:28] [INFO] Navegando a Productos
+[2025-12-03 09:23:29] [INFO] Navegando a Carrito
+[2025-12-03 09:23:31] [INFO] Navegando a Tienda
+[2025-12-03 09:23:49] [INFO] Navegando a Tienda
+[2025-12-03 09:23:50] [INFO] Navegando a Carrito
+[2025-12-03 09:23:54] [INFO] Navegando a Tienda
+[2025-12-03 09:23:56] [INFO] Navegando a Productos
+[2025-12-03 09:24:06] [INFO] Navegando a Productos
+[2025-12-03 09:24:06] [INFO] Navegando a Ventas
+[2025-12-03 09:24:07] [INFO] Navegando a Reportes
+[2025-12-03 09:24:08] [INFO] Navegando a Configuración
+[2025-12-03 09:33:52] [INFO] MainWindow cerrada
+[2025-12-03 09:34:26] [INFO] MainViewModel iniciado
+[2025-12-03 09:34:29] [INFO] Mostrando vista de inicio
+[2025-12-03 09:34:29] [INFO] MainWindow cargada
+[2025-12-03 09:34:34] [INFO] Navegando a Carrito
+[2025-12-03 09:34:36] [INFO] Navegando a Productos
+[2025-12-03 09:34:42] [INFO] Navegando a Tienda
+[2025-12-03 09:34:50] [INFO] Navegando a Ventas
+[2025-12-03 09:34:53] [INFO] Navegando a Reportes
+[2025-12-03 09:34:55] [INFO] Navegando a Configuración
+[2025-12-03 09:34:58] [INFO] Navegando a Reportes
+[2025-12-03 09:35:07] [INFO] MainWindow cerrada
+[2025-12-03 09:44:27] [INFO] MainViewModel iniciado
+[2025-12-03 09:44:30] [INFO] Navegando a Tienda
+[2025-12-03 09:44:30] [INFO] MainWindow cargada
+[2025-12-03 09:48:08] [INFO] MainWindow cerrada
+[2025-12-03 09:48:22] [INFO] MainViewModel iniciado
+[2025-12-03 09:48:23] [INFO] Navegando a Tienda
+[2025-12-03 09:48:23] [INFO] MainWindow cargada
+[2025-12-03 09:48:33] [INFO] Navegando a Carrito
+[2025-12-03 09:48:38] [INFO] Navegando a Productos
+[2025-12-03 09:48:49] [INFO] Navegando a Reportes
+[2025-12-03 09:48:50] [INFO] Navegando a Configuración
+[2025-12-03 09:48:59] [INFO] Navegando a Tienda
+[2025-12-03 09:49:19] [INFO] MainWindow cerrada
+[2025-12-03 11:14:39] [INFO] MainViewModel iniciado
+[2025-12-03 11:14:41] [INFO] Navegando a Tienda
+[2025-12-03 11:14:41] [INFO] MainWindow cargada
+[2025-12-03 11:15:12] [INFO] Navegando a Carrito
+[2025-12-03 11:15:14] [INFO] Navegando a Productos
+[2025-12-03 11:15:15] [INFO] Navegando a Ventas
+[2025-12-03 11:15:15] [INFO] Navegando a Reportes
+[2025-12-03 11:15:20] [INFO] Navegando a Ventas
+[2025-12-03 11:15:22] [INFO] Navegando a Reportes
+[2025-12-03 11:15:25] [INFO] Navegando a Configuración
+[2025-12-03 11:15:31] [INFO] Navegando a Tienda
+[2025-12-03 11:15:58] [INFO] MainWindow cerrada
+[2025-12-03 11:17:38] [INFO] MainViewModel iniciado
+[2025-12-03 11:17:40] [INFO] Navegando a Tienda
+[2025-12-03 11:17:40] [INFO] MainWindow cargada
+[2025-12-03 11:17:56] [INFO] Navegando a Productos
+[2025-12-03 11:18:00] [INFO] Navegando a Carrito
+[2025-12-03 11:18:07] [INFO] Navegando a Tienda
+[2025-12-03 11:18:09] [INFO] Navegando a Tienda
+[2025-12-03 11:18:19] [INFO] Navegando a Carrito
+[2025-12-03 11:19:34] [INFO] Navegando a Productos
+[2025-12-03 11:19:39] [INFO] Navegando a Reportes
+[2025-12-03 11:19:44] [INFO] Navegando a Ventas
+[2025-12-03 11:19:45] [INFO] Navegando a Productos
+[2025-12-03 11:19:46] [INFO] Navegando a Reportes
+[2025-12-03 11:20:31] [INFO] Navegando a Configuración
+[2025-12-03 11:21:59] [INFO] MainWindow cerrada
+[2025-12-03 11:23:45] [INFO] MainViewModel iniciado
+[2025-12-03 11:23:47] [INFO] Navegando a Tienda
+[2025-12-03 11:23:47] [INFO] MainWindow cargada
+[2025-12-03 11:23:53] [INFO] Navegando a Carrito
+[2025-12-03 11:23:57] [INFO] Navegando a Productos
+[2025-12-03 11:23:59] [INFO] Navegando a Ventas
+[2025-12-03 11:24:03] [INFO] Navegando a Configuración
+[2025-12-03 11:24:08] [INFO] Cerrando aplicación
+[2025-12-03 11:24:08] [INFO] MainWindow cerrada
+[2025-12-03 11:28:35] [INFO] MainViewModel iniciado
+[2025-12-03 11:28:37] [INFO] Navegando a Tienda
+[2025-12-03 11:28:37] [INFO] MainWindow cargada
+[2025-12-03 11:28:56] [INFO] Navegando a Tienda
+[2025-12-03 11:28:57] [INFO] Navegando a Carrito
+[2025-12-03 11:28:58] [INFO] Navegando a Tienda
+[2025-12-03 11:29:04] [INFO] Navegando a Carrito
+[2025-12-03 11:29:14] [INFO] Navegando a Productos
+[2025-12-03 11:29:27] [INFO] Navegando a Ventas
+[2025-12-03 11:29:38] [INFO] MainWindow cerrada
+[2025-12-03 11:29:44] [INFO] MainViewModel iniciado
+[2025-12-03 11:29:46] [INFO] Navegando a Tienda
+[2025-12-03 11:29:46] [INFO] MainWindow cargada
+[2025-12-03 11:29:53] [INFO] Navegando a Ventas
+[2025-12-03 11:29:54] [INFO] Navegando a Productos
+[2025-12-03 11:29:55] [INFO] Navegando a Tienda
+[2025-12-03 11:30:03] [INFO] MainWindow cerrada
+[2025-12-03 11:30:22] [INFO] MainViewModel iniciado
+[2025-12-03 11:30:24] [INFO] Navegando a Tienda
+[2025-12-03 11:30:24] [INFO] MainWindow cargada
+[2025-12-03 11:32:37] [INFO] Navegando a Carrito
+[2025-12-03 11:32:55] [INFO] Navegando a Productos
+[2025-12-03 11:33:16] [INFO] Navegando a Tienda
+[2025-12-03 12:06:58] [INFO] MainWindow cerrada

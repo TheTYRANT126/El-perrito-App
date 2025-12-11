@@ -1,0 +1,23 @@
+using System;
+using System.Globalization;
+using System.Windows.Data;
+
+namespace ElPerrito.WPF.Converters
+{
+    public class StockToBoolConverter : IMultiValueConverter
+    {
+        public object Convert(object[] values, Type targetType, object parameter, CultureInfo culture)
+        {
+            if (values.Length >= 2 && values[0] is int stock && values[1] is bool activo)
+            {
+                return stock > 0 && activo;
+            }
+            return false;
+        }
+
+        public object[] ConvertBack(object value, Type[] targetTypes, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

@@ -1,0 +1,13 @@
+C:\xampp\htdocs\elperrito\Aplicacion\ElPerrito.Core\bin\Debug\net8.0\ElPerrito.Core.deps.json
+C:\xampp\htdocs\elperrito\Aplicacion\ElPerrito.Core\bin\Debug\net8.0\ElPerrito.Core.dll
+C:\xampp\htdocs\elperrito\Aplicacion\ElPerrito.Core\bin\Debug\net8.0\ElPerrito.Core.pdb
+C:\xampp\htdocs\elperrito\Aplicacion\ElPerrito.Core\obj\Debug\net8.0\ElPerrito.Core.csproj.AssemblyReference.cache
+C:\xampp\htdocs\elperrito\Aplicacion\ElPerrito.Core\obj\Debug\net8.0\ElPerrito.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\elperrito\Aplicacion\ElPerrito.Core\obj\Debug\net8.0\ElPerrito.Core.AssemblyInfoInputs.cache
+C:\xampp\htdocs\elperrito\Aplicacion\ElPerrito.Core\obj\Debug\net8.0\ElPerrito.Core.AssemblyInfo.cs
+C:\xampp\htdocs\elperrito\Aplicacion\ElPerrito.Core\obj\Debug\net8.0\ElPerrito.Core.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\elperrito\Aplicacion\ElPerrito.Core\obj\Debug\net8.0\ElPerrito.Core.sourcelink.json
+C:\xampp\htdocs\elperrito\Aplicacion\ElPerrito.Core\obj\Debug\net8.0\ElPerrito.Core.dll
+C:\xampp\htdocs\elperrito\Aplicacion\ElPerrito.Core\obj\Debug\net8.0\refint\ElPerrito.Core.dll
+C:\xampp\htdocs\elperrito\Aplicacion\ElPerrito.Core\obj\Debug\net8.0\ElPerrito.Core.pdb
+C:\xampp\htdocs\elperrito\Aplicacion\ElPerrito.Core\obj\Debug\net8.0\ref\ElPerrito.Core.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g9EouJo7MOc=",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Domain\\ElPerrito.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spide\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
