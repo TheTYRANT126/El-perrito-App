@@ -1,8 +1,5 @@
 namespace ElPerrito.Core.Reports
 {
-    /// <summary>
-    /// Concrete Factory para crear reportes en PDF
-    /// </summary>
     public class PdfReportFactory : IReportFactory
     {
         public IReport CreateSalesReport() => new PdfReport("Ventas");

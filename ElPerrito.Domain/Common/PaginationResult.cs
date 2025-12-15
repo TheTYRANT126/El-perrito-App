@@ -2,9 +2,6 @@ using System.Collections.Generic;
 
 namespace ElPerrito.Domain.Common
 {
-    /// <summary>
-    /// Resultado paginado genérico
-    /// </summary>
     public class PaginationResult<T>
     {
         public IEnumerable<T> Items { get; set; } = new List<T>();

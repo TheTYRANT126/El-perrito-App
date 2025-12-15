@@ -3,9 +3,6 @@ using System;
 
 namespace ElPerrito.Business.Builders
 {
-    /// <summary>
-    /// Interfaz para el Builder de Producto
-    /// </summary>
     public interface IProductoBuilder
     {
         IProductoBuilder SetNombre(string nombre);

@@ -5,10 +5,8 @@ using System.Text.Json;
 
 namespace ElPerrito.Core.Configuration
 {
-    /// <summary>
     /// Implementación del patrón Singleton para gestión de configuración
     /// Thread-safe usando Lazy initialization
-    /// </summary>
     public sealed class ConfigurationManager
     {
         private static readonly Lazy<ConfigurationManager> _lazy =

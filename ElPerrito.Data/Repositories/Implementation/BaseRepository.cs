@@ -9,11 +9,6 @@ using ElPerrito.Data.Repositories.Interfaces;
 
 namespace ElPerrito.Data.Repositories.Implementation
 {
-    /// <summary>
-    /// Repositorio base que implementa el patrón Template Method
-    /// Proporciona hooks para validación, logging y operaciones personalizadas
-    /// </summary>
-    /// <typeparam name="TEntity">Tipo de entidad</typeparam>
     public abstract class BaseRepository<TEntity> : IRepository<TEntity> where TEntity : class
     {
         protected readonly ElPerritoContext _context;
@@ -27,57 +22,36 @@ namespace ElPerrito.Data.Repositories.Implementation
 
         #region Template Method Hooks
 
-        /// <summary>
-        /// Hook ejecutado antes de agregar una entidad
-        /// </summary>
         protected virtual Task BeforeAddAsync(TEntity entity)
         {
             return Task.CompletedTask;
         }
 
-        /// <summary>
-        /// Hook ejecutado después de agregar una entidad
-        /// </summary>
         protected virtual Task AfterAddAsync(TEntity entity)
         {
             return Task.CompletedTask;
         }
 
-        /// <summary>
-        /// Hook ejecutado antes de actualizar una entidad
-        /// </summary>
         protected virtual Task BeforeUpdateAsync(TEntity entity)
         {
             return Task.CompletedTask;
         }
 
-        /// <summary>
-        /// Hook ejecutado después de actualizar una entidad
-        /// </summary>
         protected virtual Task AfterUpdateAsync(TEntity entity)
         {
             return Task.CompletedTask;
         }
 
-        /// <summary>
-        /// Hook ejecutado antes de eliminar una entidad
-        /// </summary>
         protected virtual Task BeforeDeleteAsync(TEntity entity)
         {
             return Task.CompletedTask;
         }
 
-        /// <summary>
-        /// Hook ejecutado después de eliminar una entidad
-        /// </summary>
         protected virtual Task AfterDeleteAsync(TEntity entity)
         {
             return Task.CompletedTask;
         }
 
-        /// <summary>
-        /// Hook para validar una entidad antes de operaciones de escritura
-        /// </summary>
         protected virtual Task ValidateEntityAsync(TEntity entity)
         {
             if (entity == null)
@@ -87,9 +61,6 @@ namespace ElPerrito.Data.Repositories.Implementation
             return Task.CompletedTask;
         }
 
-        /// <summary>
-        /// Hook para aplicar includes por defecto en consultas
-        /// </summary>
         protected virtual IQueryable<TEntity> ApplyIncludes(IQueryable<TEntity> query)
         {
             return query;
@@ -274,10 +245,6 @@ namespace ElPerrito.Data.Repositories.Implementation
 
         #region Métodos auxiliares
 
-        /// <summary>
-        /// Obtiene el nombre de la propiedad clave de la entidad
-        /// Por defecto busca una propiedad llamada "Id{NombreEntidad}" o "Id"
-        /// </summary>
         protected virtual string GetKeyPropertyName()
         {
             var entityType = typeof(TEntity).Name;

@@ -2,9 +2,6 @@ using System.Collections.Generic;
 
 namespace ElPerrito.Domain.Common
 {
-    /// <summary>
-    /// Resultado de una operación
-    /// </summary>
     public class OperationResult
     {
         public bool Success { get; set; }
@@ -27,9 +24,6 @@ namespace ElPerrito.Domain.Common
         }
     }
 
-    /// <summary>
-    /// Resultado de una operación con datos
-    /// </summary>
     public class OperationResult<T> : OperationResult
     {
         public T? Data { get; set; }

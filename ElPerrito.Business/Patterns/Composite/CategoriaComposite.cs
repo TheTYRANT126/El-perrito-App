@@ -3,9 +3,6 @@ using System.Collections.Generic;
 
 namespace ElPerrito.Business.Patterns.Composite
 {
-    /// <summary>
-    /// Composite - Categoría que puede contener subcategorías
-    /// </summary>
     public class CategoriaComposite : IMenuComponent
     {
         private readonly int _id;

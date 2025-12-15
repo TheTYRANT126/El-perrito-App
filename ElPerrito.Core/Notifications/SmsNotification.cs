@@ -4,9 +4,6 @@ using ElPerrito.Core.Logging;
 
 namespace ElPerrito.Core.Notifications
 {
-    /// <summary>
-    /// Implementación de notificación por SMS
-    /// </summary>
     public class SmsNotification : INotification
     {
         private readonly Logger _logger = Logger.Instance;

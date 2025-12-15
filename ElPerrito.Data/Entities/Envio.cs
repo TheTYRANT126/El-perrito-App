@@ -23,9 +23,6 @@ public partial class Envio
     [Column("id_direccion", TypeName = "int(11)")]
     public int IdDireccion { get; set; }
 
-    /// <summary>
-    /// DHL, FedEx, Estafeta, etc.
-    /// </summary>
     [Column("paqueteria")]
     [StringLength(50)]
     public string? Paqueteria { get; set; }
@@ -61,9 +58,6 @@ public partial class Envio
     [StringLength(160)]
     public string? ReceptorNombre { get; set; }
 
-    /// <summary>
-    /// URL de imagen de firma
-    /// </summary>
     [Column("receptor_firma")]
     [StringLength(255)]
     public string? ReceptorFirma { get; set; }

@@ -4,9 +4,6 @@ using ElPerrito.Core.Logging;
 
 namespace ElPerrito.WPF;
 
-/// <summary>
-/// Ventana principal de la aplicación
-/// </summary>
 public partial class MainWindow : Window
 {
     private readonly Logger _logger = Logger.Instance;

@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(du:*)",
+      "Bash(dir:*)",
+      "Bash(git rm:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)",
+      "WebSearch"
+    ]
+  }
+}

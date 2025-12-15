@@ -26,16 +26,10 @@ public partial class Pago
     [Precision(10, 2)]
     public decimal Monto { get; set; }
 
-    /// <summary>
-    /// ID de transacción o referencia bancaria
-    /// </summary>
     [Column("referencia")]
     [StringLength(100)]
     public string? Referencia { get; set; }
 
-    /// <summary>
-    /// Últimos 4 dígitos de tarjeta
-    /// </summary>
     [Column("ultimos_digitos")]
     [StringLength(4)]
     public string? UltimosDigitos { get; set; }

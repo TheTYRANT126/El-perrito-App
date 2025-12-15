@@ -2,9 +2,6 @@ using System;
 
 namespace ElPerrito.Core.Reports
 {
-    /// <summary>
-    /// Provider para obtener la factory adecuada según el formato
-    /// </summary>
     public enum ReportFormat
     {
         Pdf,

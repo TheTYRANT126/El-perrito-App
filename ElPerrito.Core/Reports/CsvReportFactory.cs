@@ -1,8 +1,5 @@
 namespace ElPerrito.Core.Reports
 {
-    /// <summary>
-    /// Concrete Factory para crear reportes en CSV
-    /// </summary>
     public class CsvReportFactory : IReportFactory
     {
         public IReport CreateSalesReport() => new CsvReport("Ventas");

@@ -2,9 +2,6 @@ using System.Collections.Generic;
 
 namespace ElPerrito.Business.Patterns.Command
 {
-    /// <summary>
-    /// Invoker que mantiene historial de comandos para deshacer
-    /// </summary>
     public class CommandInvoker
     {
         private readonly Stack<ICommand> _commandHistory = new();

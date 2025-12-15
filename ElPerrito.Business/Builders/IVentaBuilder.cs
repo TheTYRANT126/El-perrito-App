@@ -2,9 +2,6 @@ using ElPerrito.Data.Entities;
 
 namespace ElPerrito.Business.Builders
 {
-    /// <summary>
-    /// Interfaz para el Builder de Venta
-    /// </summary>
     public interface IVentaBuilder
     {
         IVentaBuilder SetCliente(int idCliente);

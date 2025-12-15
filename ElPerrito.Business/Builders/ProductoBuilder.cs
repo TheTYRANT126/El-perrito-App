@@ -3,9 +3,6 @@ using ElPerrito.Data.Entities;
 
 namespace ElPerrito.Business.Builders
 {
-    /// <summary>
-    /// Implementación del patrón Builder para construir objetos Producto complejos
-    /// </summary>
     public class ProductoBuilder : IProductoBuilder
     {
         private Producto _producto;

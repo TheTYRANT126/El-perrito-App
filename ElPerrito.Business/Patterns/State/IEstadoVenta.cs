@@ -1,8 +1,5 @@
 namespace ElPerrito.Business.Patterns.State
 {
-    /// <summary>
-    /// Patrón State para estados de venta
-    /// </summary>
     public interface IEstadoVenta
     {
         void ProcesarPago(VentaContext context);

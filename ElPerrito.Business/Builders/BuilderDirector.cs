@@ -3,15 +3,8 @@ using System;
 
 namespace ElPerrito.Business.Builders
 {
-    /// <summary>
-    /// Director que coordina la construcción de objetos complejos
-    /// Parte del patrón Builder
-    /// </summary>
     public class BuilderDirector
     {
-        /// <summary>
-        /// Construye una venta básica
-        /// </summary>
         public static Ventum ConstructVentaBasica(IVentaBuilder builder, int idCliente, params (int idProducto, int cantidad, decimal precio)[] items)
         {
             builder.Reset();
@@ -25,9 +18,6 @@ namespace ElPerrito.Business.Builders
             return builder.Build();
         }
 
-        /// <summary>
-        /// Construye una venta completa con todos los datos
-        /// </summary>
         public static Ventum ConstructVentaCompleta(
             IVentaBuilder builder,
             int idCliente,
@@ -51,9 +41,6 @@ namespace ElPerrito.Business.Builders
             return builder.Build();
         }
 
-        /// <summary>
-        /// Construye un producto básico
-        /// </summary>
         public static Producto ConstructProductoBasico(
             IProductoBuilder builder,
             string nombre,
@@ -68,9 +55,6 @@ namespace ElPerrito.Business.Builders
                 .Build();
         }
 
-        /// <summary>
-        /// Construye un producto completo con inventario
-        /// </summary>
         public static Producto ConstructProductoCompleto(
             IProductoBuilder builder,
             string nombre,
@@ -92,9 +76,6 @@ namespace ElPerrito.Business.Builders
                 .Build();
         }
 
-        /// <summary>
-        /// Construye un producto medicamento
-        /// </summary>
         public static Producto ConstructProductoMedicamento(
             IProductoBuilder builder,
             string nombre,

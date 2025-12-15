@@ -8,9 +8,6 @@ using ElPerrito.Data.Entities;
 
 namespace ElPerrito.Business.Patterns.Facade
 {
-    /// <summary>
-    /// Patrón Facade - Simplifica el proceso complejo de creación de ventas
-    /// </summary>
     public class VentaFacade
     {
         private readonly IVentaRepository _ventaRepository;

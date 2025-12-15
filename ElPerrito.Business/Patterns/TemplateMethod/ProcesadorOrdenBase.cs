@@ -2,9 +2,6 @@ using ElPerrito.Core.Logging;
 
 namespace ElPerrito.Business.Patterns.TemplateMethod
 {
-    /// <summary>
-    /// Patrón Template Method - Define el esqueleto del algoritmo
-    /// </summary>
     public abstract class ProcesadorOrdenBase
     {
         protected readonly Logger _logger = Logger.Instance;

@@ -2,9 +2,6 @@ using System;
 
 namespace ElPerrito.Core.Notifications
 {
-    /// <summary>
-    /// Implementación del patrón Factory Method para crear notificaciones
-    /// </summary>
     public enum NotificationType
     {
         Email,
@@ -14,9 +11,6 @@ namespace ElPerrito.Core.Notifications
 
     public class NotificationFactory
     {
-        /// <summary>
-        /// Factory Method para crear instancias de notificaciones
-        /// </summary>
         public static INotification CreateNotification(NotificationType type)
         {
             return type switch
@@ -28,9 +22,6 @@ namespace ElPerrito.Core.Notifications
             };
         }
 
-        /// <summary>
-        /// Factory Method sobrecargado que acepta string
-        /// </summary>
         public static INotification CreateNotification(string type)
         {
             return type.ToLower() switch

@@ -4,10 +4,8 @@ using System.Threading;
 
 namespace ElPerrito.Core.Logging
 {
-    /// <summary>
     /// Implementación del patrón Singleton para logging
     /// Thread-safe usando lock
-    /// </summary>
     public sealed class Logger
     {
         private static Logger? _instance;

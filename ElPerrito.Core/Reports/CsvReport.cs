@@ -7,9 +7,6 @@ using ElPerrito.Core.Logging;
 
 namespace ElPerrito.Core.Reports
 {
-    /// <summary>
-    /// Implementación de reporte en CSV
-    /// </summary>
     public class CsvReport : IReport
     {
         private readonly Logger _logger = Logger.Instance;

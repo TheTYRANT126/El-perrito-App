@@ -2,9 +2,6 @@ using System.Collections.Generic;
 
 namespace ElPerrito.Business.Patterns.Memento
 {
-    /// <summary>
-    /// Caretaker - Gestiona los mementos pero no los modifica
-    /// </summary>
     public class VentaCaretaker
     {
         private readonly Stack<VentaMemento> _history = new();

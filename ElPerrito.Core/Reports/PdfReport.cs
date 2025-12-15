@@ -6,9 +6,6 @@ using ElPerrito.Core.Logging;
 
 namespace ElPerrito.Core.Reports
 {
-    /// <summary>
-    /// Implementación de reporte en PDF
-    /// </summary>
     public class PdfReport : IReport
     {
         private readonly Logger _logger = Logger.Instance;

@@ -7,10 +7,6 @@ using ElPerrito.Data.Repositories.Implementation;
 
 namespace ElPerrito.Data.UnitOfWork
 {
-    /// <summary>
-    /// Implementación del patrón Unit of Work
-    /// Coordina el trabajo de múltiples repositorios y mantiene una única transacción
-    /// </summary>
     public class UnitOfWork : IUnitOfWork
     {
         private readonly ElPerritoContext _context;

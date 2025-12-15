@@ -4,10 +4,6 @@ using ElPerrito.Data.Repositories.Interfaces;
 
 namespace ElPerrito.Data.UnitOfWork
 {
-    /// <summary>
-    /// Interfaz para el patrón Unit of Work
-    /// Coordina el trabajo de múltiples repositorios y mantiene una única transacción
-    /// </summary>
     public interface IUnitOfWork : IDisposable
     {
         // Repositorios

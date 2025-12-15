@@ -2,9 +2,6 @@ using System.Threading.Tasks;
 
 namespace ElPerrito.Business.Patterns.Bridge
 {
-    /// <summary>
-    /// Abstracción del pago que usa el Bridge
-    /// </summary>
     public abstract class Payment
     {
         protected IPaymentProcessor _processor;

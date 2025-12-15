@@ -2,9 +2,6 @@ using System;
 
 namespace ElPerrito.Business.Patterns.Memento
 {
-    /// <summary>
-    /// Patrón Memento - Guarda el estado de una venta
-    /// </summary>
     public class VentaMemento
     {
         public int IdVenta { get; }

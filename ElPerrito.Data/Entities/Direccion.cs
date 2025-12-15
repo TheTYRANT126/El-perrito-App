@@ -18,9 +18,6 @@ public partial class Direccion
     [Column("id_cliente", TypeName = "int(11)")]
     public int IdCliente { get; set; }
 
-    /// <summary>
-    /// Ej: Casa, Trabajo, Oficina
-    /// </summary>
     [Column("alias")]
     [StringLength(50)]
     public string? Alias { get; set; }

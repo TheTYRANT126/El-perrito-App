@@ -2,9 +2,6 @@ using ElPerrito.Core.Logging;
 
 namespace ElPerrito.Business.Patterns.Mediator
 {
-    /// <summary>
-    /// Mediador concreto que coordina la comunicación entre componentes de venta
-    /// </summary>
     public class VentaMediator : IMediator
     {
         private readonly Logger _logger = Logger.Instance;

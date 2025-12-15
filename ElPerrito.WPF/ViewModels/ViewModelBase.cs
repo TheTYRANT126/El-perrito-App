@@ -3,9 +3,6 @@ using System.Runtime.CompilerServices;
 
 namespace ElPerrito.WPF.ViewModels
 {
-    /// <summary>
-    /// Base para todos los ViewModels - Implementa INotifyPropertyChanged
-    /// </summary>
     public abstract class ViewModelBase : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler? PropertyChanged;

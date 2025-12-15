@@ -2,9 +2,6 @@ using ElPerrito.Core.Logging;
 
 namespace ElPerrito.Business.Patterns.Memento
 {
-    /// <summary>
-    /// Originator - Objeto que puede crear y restaurar mementos
-    /// </summary>
     public class VentaOriginator
     {
         private readonly Logger _logger = Logger.Instance;

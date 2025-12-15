@@ -2,9 +2,6 @@ using System.Threading.Tasks;
 
 namespace ElPerrito.Business.Patterns.Adapter
 {
-    /// <summary>
-    /// Patrón Adapter - Adapta Stripe a nuestra interfaz común
-    /// </summary>
     public class StripePaymentAdapter : IPaymentGateway
     {
         private readonly StripePaymentService _stripeService;

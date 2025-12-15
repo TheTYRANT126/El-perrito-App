@@ -1,8 +1,5 @@
 namespace ElPerrito.Core.Reports
 {
-    /// <summary>
-    /// Concrete Factory para crear reportes en Excel
-    /// </summary>
     public class ExcelReportFactory : IReportFactory
     {
         public IReport CreateSalesReport() => new ExcelReport("Ventas");

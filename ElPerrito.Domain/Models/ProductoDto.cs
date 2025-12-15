@@ -3,9 +3,6 @@ using ElPerrito.Domain.Patterns;
 
 namespace ElPerrito.Domain.Models
 {
-    /// <summary>
-    /// DTO de Producto que implementa Prototype para clonación
-    /// </summary>
     public class ProductoDto : IPrototype<ProductoDto>
     {
         public int IdProducto { get; set; }
@@ -20,17 +17,11 @@ namespace ElPerrito.Domain.Models
         public int Stock { get; set; }
         public int StockMinimo { get; set; }
 
-        /// <summary>
-        /// Clonación superficial (shallow copy)
-        /// </summary>
         public ProductoDto Clone()
         {
             return (ProductoDto)this.MemberwiseClone();
         }
 
-        /// <summary>
-        /// Clonación profunda (deep copy)
-        /// </summary>
         public ProductoDto DeepClone()
         {
             return new ProductoDto

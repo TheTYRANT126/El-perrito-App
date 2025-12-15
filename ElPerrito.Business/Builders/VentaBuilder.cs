@@ -4,9 +4,6 @@ using ElPerrito.Data.Entities;
 
 namespace ElPerrito.Business.Builders
 {
-    /// <summary>
-    /// Implementación del patrón Builder para construir objetos Venta complejos
-    /// </summary>
     public class VentaBuilder : IVentaBuilder
     {
         private Ventum _venta;

@@ -8,7 +8,6 @@ namespace ElPerrito.Data.Repositories.Interfaces
     /// <parameter>
     /// Interfaz genérica para repositorios
     /// Implementa el patrón Repository
-    /// </summary>
     /// <typeparam name="TEntity">Tipo de entidad</typeparam>
     public interface IRepository<TEntity> where TEntity : class
     {

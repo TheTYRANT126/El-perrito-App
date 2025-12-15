@@ -7,9 +7,6 @@ using System.Threading.Tasks;
 
 namespace ElPerrito.Business.Patterns.Proxy
 {
-    /// <summary>
-    /// Patrón Proxy - Añade caché y logging al servicio real
-    /// </summary>
     public class ProductoServiceProxy : IProductoService
     {
         private readonly IProductoService _realService;

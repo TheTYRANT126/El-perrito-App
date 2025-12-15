@@ -3,9 +3,6 @@ using System.Windows.Input;
 
 namespace ElPerrito.WPF.Commands
 {
-    /// <summary>
-    /// Implementación de ICommand para MVVM
-    /// </summary>
     public class RelayCommand : ICommand
     {
         private readonly Action<object?> _execute;

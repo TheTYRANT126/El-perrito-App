@@ -2,9 +2,6 @@ using System;
 
 namespace ElPerrito.Business.Patterns.Composite
 {
-    /// <summary>
-    /// Hoja del composite - Categoría sin hijos
-    /// </summary>
     public class CategoriaLeaf : IMenuComponent
     {
         private readonly int _id;

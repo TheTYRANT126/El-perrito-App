@@ -4,10 +4,6 @@ using ElPerrito.Domain.Patterns;
 
 namespace ElPerrito.Domain.Models
 {
-    /// <summary>
-    /// DTO de Configuración que implementa Prototype
-    /// Útil para plantillas de configuración
-    /// </summary>
     public class ConfiguracionDto : IPrototype<ConfiguracionDto>
     {
         public string Nombre { get; set; } = string.Empty;

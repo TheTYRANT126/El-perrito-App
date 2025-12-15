@@ -3,9 +3,6 @@ using System.Threading.Tasks;
 
 namespace ElPerrito.Business.Patterns.Adapter
 {
-    /// <summary>
-    /// Servicio externo de Stripe con su propia interfaz
-    /// </summary>
     public class StripePaymentService
     {
         public async Task<string> ChargeCard(string cardToken, int amountInCents)

@@ -3,6 +3,158 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.core\\configuration\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|solutionrelative:elperrito.core\\configuration\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\visitor\\ivisitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\visitor\\ivisitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\visitor\\validacionvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\visitor\\validacionvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\templatemethod\\procesadorordenbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\templatemethod\\procesadorordenbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\templatemethod\\procesadorordenestandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\templatemethod\\procesadorordenestandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\decorator\\descuentodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\decorator\\descuentodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\state\\iestadoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\state\\iestadoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\strategy\\idescuentostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\strategy\\idescuentostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\observer\\emailstockobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\observer\\emailstockobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\memento\\ventacaretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\memento\\ventacaretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\memento\\ventamemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\memento\\ventamemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\builders\\iventabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\builders\\iventabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\iterator\\productoiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\iterator\\productoiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\iterator\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\iterator\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\command\\commandinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\command\\commandinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\command\\actualizarstockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\command\\actualizarstockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\proxy\\productoserviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\proxy\\productoserviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.wpf\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|solutionrelative:elperrito.wpf\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\proxy\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\proxy\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\facade\\ventafacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\facade\\ventafacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4891DD67-27C1-4C6D-B48E-9990DE600B0B}|ElPerrito.Data\\ElPerrito.Data.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.data\\entities\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4891DD67-27C1-4C6D-B48E-9990DE600B0B}|ElPerrito.Data\\ElPerrito.Data.csproj|solutionrelative:elperrito.data\\entities\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\composite\\categoriacomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\composite\\categoriacomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4891DD67-27C1-4C6D-B48E-9990DE600B0B}|ElPerrito.Data\\ElPerrito.Data.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.data\\repositories\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4891DD67-27C1-4C6D-B48E-9990DE600B0B}|ElPerrito.Data\\ElPerrito.Data.csproj|solutionrelative:elperrito.data\\repositories\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\bridge\\creditcardprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\bridge\\creditcardprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\adapter\\stripepaymentadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\adapter\\stripepaymentadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\patterns\\bridge\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\patterns\\bridge\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36133F02-6770-43C2-BA92-93378C6FECB4}|ElPerrito.Domain\\ElPerrito.Domain.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.domain\\models\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36133F02-6770-43C2-BA92-93378C6FECB4}|ElPerrito.Domain\\ElPerrito.Domain.csproj|solutionrelative:elperrito.domain\\models\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36133F02-6770-43C2-BA92-93378C6FECB4}|ElPerrito.Domain\\ElPerrito.Domain.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.domain\\patterns\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36133F02-6770-43C2-BA92-93378C6FECB4}|ElPerrito.Domain\\ElPerrito.Domain.csproj|solutionrelative:elperrito.domain\\patterns\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\builders\\ventabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\builders\\ventabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.business\\builders\\productobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA256811-0873-43C7-B7D9-CB48D40DCCFD}|ElPerrito.Business\\ElPerrito.Business.csproj|solutionrelative:elperrito.business\\builders\\productobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.core\\reports\\excelreportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|solutionrelative:elperrito.core\\reports\\excelreportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.core\\reports\\pdfreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|solutionrelative:elperrito.core\\reports\\pdfreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.core\\reports\\pdfreportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|solutionrelative:elperrito.core\\reports\\pdfreportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.core\\reports\\ireportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|solutionrelative:elperrito.core\\reports\\ireportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.core\\notifications\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|solutionrelative:elperrito.core\\notifications\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.core\\notifications\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|solutionrelative:elperrito.core\\notifications\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.core\\notifications\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|solutionrelative:elperrito.core\\notifications\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,39 +163,16 @@
       "RelativeMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|solutionrelative:elperrito.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|solutionrelative:elperrito.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|solutionrelative:elperrito.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.wpf\\views\\shopview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|solutionrelative:elperrito.wpf\\views\\shopview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.wpf\\elperrito.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|solutionrelative:elperrito.wpf\\elperrito.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.core\\notifications\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|solutionrelative:elperrito.core\\notifications\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\spide\\AppData\\Local\\Temp\\.vsdbgsrc\\1b77cb146b3dc6f60ca3b7de619b68fc3904b4f03155b255fa425d7d7bd36ae9\\PropertyPathWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36133F02-6770-43C2-BA92-93378C6FECB4}|ElPerrito.Domain\\ElPerrito.Domain.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.domain\\elperrito.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{36133F02-6770-43C2-BA92-93378C6FECB4}|ElPerrito.Domain\\ElPerrito.Domain.csproj|solutionrelative:elperrito.domain\\elperrito.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.wpf\\views\\cartview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|solutionrelative:elperrito.wpf\\views\\cartview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.wpf\\views\\reportsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|solutionrelative:elperrito.wpf\\views\\reportsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.wpf\\views\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|solutionrelative:elperrito.wpf\\views\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.wpf\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48CF06E7-9E2D-4686-80F4-F93AFC8D1BD2}|ElPerrito.WPF\\ElPerrito.WPF.csproj|solutionrelative:elperrito.wpf\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|c:\\xampp\\htdocs\\elperrito\\aplicacion\\elperrito.core\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E19FB5-4C1F-4F38-AD1A-CF0A6EAA857D}|ElPerrito.Core\\ElPerrito.Core.csproj|solutionrelative:elperrito.core\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,7 +182,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,135 +190,519 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CarritoService.cs",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\Services\\CarritoService.cs",
-              "RelativeDocumentMoniker": "ElPerrito.WPF\\Services\\CarritoService.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\Services\\CarritoService.cs",
-              "RelativeToolTip": "ElPerrito.WPF\\Services\\CarritoService.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAABOwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IVisitable.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Visitor\\IVisitable.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Visitor\\IVisitable.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Visitor\\IVisitable.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Visitor\\IVisitable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T07:39:52.872Z",
+              "WhenOpened": "2025-12-12T05:14:24.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ConfigurationManager.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Configuration\\ConfigurationManager.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Core\\Configuration\\ConfigurationManager.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Configuration\\ConfigurationManager.cs",
+              "RelativeToolTip": "ElPerrito.Core\\Configuration\\ConfigurationManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:41:40.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidacionVisitor.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Visitor\\ValidacionVisitor.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Visitor\\ValidacionVisitor.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Visitor\\ValidacionVisitor.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Visitor\\ValidacionVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:13:23.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProcesadorOrdenBase.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\TemplateMethod\\ProcesadorOrdenBase.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\TemplateMethod\\ProcesadorOrdenBase.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\TemplateMethod\\ProcesadorOrdenBase.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\TemplateMethod\\ProcesadorOrdenBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:12:23.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProcesadorOrdenEstandar.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\TemplateMethod\\ProcesadorOrdenEstandar.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\TemplateMethod\\ProcesadorOrdenEstandar.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\TemplateMethod\\ProcesadorOrdenEstandar.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\TemplateMethod\\ProcesadorOrdenEstandar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:12:20.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEstadoVenta.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\State\\IEstadoVenta.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\State\\IEstadoVenta.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\State\\IEstadoVenta.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\State\\IEstadoVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:10:47.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDescuentoStrategy.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Strategy\\IDescuentoStrategy.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Strategy\\IDescuentoStrategy.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Strategy\\IDescuentoStrategy.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Strategy\\IDescuentoStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:10:26.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailStockObserver.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Observer\\EmailStockObserver.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Observer\\EmailStockObserver.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Observer\\EmailStockObserver.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Observer\\EmailStockObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:09:01.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DescuentoDecorator.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Decorator\\DescuentoDecorator.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Decorator\\DescuentoDecorator.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Decorator\\DescuentoDecorator.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Decorator\\DescuentoDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:00:42.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Observer\\IObserver.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Observer\\IObserver.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Observer\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:09:00.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VentaCaretaker.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Memento\\VentaCaretaker.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Memento\\VentaCaretaker.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Memento\\VentaCaretaker.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Memento\\VentaCaretaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:07:20.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VentaMemento.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Memento\\VentaMemento.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Memento\\VentaMemento.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Memento\\VentaMemento.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Memento\\VentaMemento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:06:58.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IVentaBuilder.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Builders\\IVentaBuilder.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Builders\\IVentaBuilder.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Builders\\IVentaBuilder.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Builders\\IVentaBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:06:18.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductoIterator.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Iterator\\ProductoIterator.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Iterator\\ProductoIterator.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Iterator\\ProductoIterator.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Iterator\\ProductoIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:05:17.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IIterator.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Iterator\\IIterator.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Iterator\\IIterator.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Iterator\\IIterator.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Iterator\\IIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:04:59.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommandInvoker.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Command\\CommandInvoker.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Command\\CommandInvoker.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Command\\CommandInvoker.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Command\\CommandInvoker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:04:27.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ActualizarStockCommand.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Command\\ActualizarStockCommand.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Command\\ActualizarStockCommand.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Command\\ActualizarStockCommand.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Command\\ActualizarStockCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:04:13.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Command\\ICommand.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Command\\ICommand.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Command\\ICommand.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Command\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:03:18.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "ElPerrito.WPF\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\Services\\ProductoService.cs",
+              "RelativeToolTip": "ElPerrito.WPF\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:02:27.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductoServiceProxy.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Proxy\\ProductoServiceProxy.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Proxy\\ProductoServiceProxy.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Proxy\\ProductoServiceProxy.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Proxy\\ProductoServiceProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:02:20.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Proxy\\IProductoService.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Proxy\\IProductoService.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Proxy\\IProductoService.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Proxy\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:02:01.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Data\\Entities\\Inventario.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Data\\Entities\\Inventario.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Data\\Entities\\Inventario.cs",
+              "RelativeToolTip": "ElPerrito.Data\\Entities\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:59:32.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoriaComposite.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Composite\\CategoriaComposite.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Composite\\CategoriaComposite.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Composite\\CategoriaComposite.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Composite\\CategoriaComposite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:59:14.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VentaFacade.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Facade\\VentaFacade.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Facade\\VentaFacade.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Facade\\VentaFacade.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Facade\\VentaFacade.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:57:01.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Data\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Data\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Data\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "RelativeToolTip": "ElPerrito.Data\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:58:52.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreditCardProcessor.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Bridge\\CreditCardProcessor.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Bridge\\CreditCardProcessor.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Bridge\\CreditCardProcessor.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Bridge\\CreditCardProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:58:29.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StripePaymentAdapter.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Adapter\\StripePaymentAdapter.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Adapter\\StripePaymentAdapter.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Adapter\\StripePaymentAdapter.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Adapter\\StripePaymentAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:56:37.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Bridge\\IPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Patterns\\Bridge\\IPaymentProcessor.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Patterns\\Bridge\\IPaymentProcessor.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Patterns\\Bridge\\IPaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:56:13.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Domain\\Models\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Domain\\Models\\ProductoDto.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Domain\\Models\\ProductoDto.cs",
+              "RelativeToolTip": "ElPerrito.Domain\\Models\\ProductoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:55:26.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IPrototype.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Domain\\Patterns\\IPrototype.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Domain\\Patterns\\IPrototype.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Domain\\Patterns\\IPrototype.cs",
+              "RelativeToolTip": "ElPerrito.Domain\\Patterns\\IPrototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:55:04.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductoBuilder.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Builders\\ProductoBuilder.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Builders\\ProductoBuilder.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Builders\\ProductoBuilder.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Builders\\ProductoBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:54:04.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VentaBuilder.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Builders\\VentaBuilder.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Business\\Builders\\VentaBuilder.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Business\\Builders\\VentaBuilder.cs",
+              "RelativeToolTip": "ElPerrito.Business\\Builders\\VentaBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:53:38.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ExcelReportFactory.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Reports\\ExcelReportFactory.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Core\\Reports\\ExcelReportFactory.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Reports\\ExcelReportFactory.cs",
+              "RelativeToolTip": "ElPerrito.Core\\Reports\\ExcelReportFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:52:06.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PdfReport.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Reports\\PdfReport.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Core\\Reports\\PdfReport.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Reports\\PdfReport.cs",
+              "RelativeToolTip": "ElPerrito.Core\\Reports\\PdfReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:48:33.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PdfReportFactory.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Reports\\PdfReportFactory.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Core\\Reports\\PdfReportFactory.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Reports\\PdfReportFactory.cs",
+              "RelativeToolTip": "ElPerrito.Core\\Reports\\PdfReportFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:48:12.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IReportFactory.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Reports\\IReportFactory.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Core\\Reports\\IReportFactory.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Reports\\IReportFactory.cs",
+              "RelativeToolTip": "ElPerrito.Core\\Reports\\IReportFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:47:53.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NotificationFactory.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Notifications\\NotificationFactory.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Core\\Notifications\\NotificationFactory.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Notifications\\NotificationFactory.cs",
+              "RelativeToolTip": "ElPerrito.Core\\Notifications\\NotificationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:47:16.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SmsNotification.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Notifications\\SmsNotification.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Core\\Notifications\\SmsNotification.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Notifications\\SmsNotification.cs",
+              "RelativeToolTip": "ElPerrito.Core\\Notifications\\SmsNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:46:46.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Notifications\\INotification.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Core\\Notifications\\INotification.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Notifications\\INotification.cs",
+              "RelativeToolTip": "ElPerrito.Core\\Notifications\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:46:07.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ElPerrito.WPF\\MainWindow.xaml",
               "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\MainWindow.xaml",
               "RelativeToolTip": "ElPerrito.WPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-11T07:11:14.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T04:44:50.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginView.xaml",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\Views\\LoginView.xaml",
-              "RelativeDocumentMoniker": "ElPerrito.WPF\\Views\\LoginView.xaml",
-              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\Views\\LoginView.xaml",
-              "RelativeToolTip": "ElPerrito.WPF\\Views\\LoginView.xaml",
+              "DocumentIndex": 40,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\App.xaml",
+              "RelativeDocumentMoniker": "ElPerrito.WPF\\App.xaml",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\App.xaml",
+              "RelativeToolTip": "ElPerrito.WPF\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-11T07:06:17.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T04:44:44.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotificationFactory.cs",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Notifications\\NotificationFactory.cs",
-              "RelativeDocumentMoniker": "ElPerrito.Core\\Notifications\\NotificationFactory.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Notifications\\NotificationFactory.cs",
-              "RelativeToolTip": "ElPerrito.Core\\Notifications\\NotificationFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T17:31:52.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "INotification.cs",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Notifications\\INotification.cs",
-              "RelativeDocumentMoniker": "ElPerrito.Core\\Notifications\\INotification.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Notifications\\INotification.cs",
-              "RelativeToolTip": "ElPerrito.Core\\Notifications\\INotification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T17:31:50.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SettingsView.xaml",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\Views\\SettingsView.xaml",
-              "RelativeDocumentMoniker": "ElPerrito.WPF\\Views\\SettingsView.xaml",
-              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\Views\\SettingsView.xaml",
-              "RelativeToolTip": "ElPerrito.WPF\\Views\\SettingsView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-03T17:22:44.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ReportsView.xaml",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\Views\\ReportsView.xaml",
-              "RelativeDocumentMoniker": "ElPerrito.WPF\\Views\\ReportsView.xaml",
-              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\Views\\ReportsView.xaml",
-              "RelativeToolTip": "ElPerrito.WPF\\Views\\ReportsView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-03T17:22:36.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CartView.xaml",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\Views\\CartView.xaml",
-              "RelativeDocumentMoniker": "ElPerrito.WPF\\Views\\CartView.xaml",
-              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\Views\\CartView.xaml",
-              "RelativeToolTip": "ElPerrito.WPF\\Views\\CartView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-03T17:22:20.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PropertyPathWorker.cs",
-              "DocumentMoniker": "C:\\Users\\spide\\AppData\\Local\\Temp\\.vsdbgsrc\\1b77cb146b3dc6f60ca3b7de619b68fc3904b4f03155b255fa425d7d7bd36ae9\\PropertyPathWorker.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\spide\\AppData\\Local\\Temp\\.vsdbgsrc\\1b77cb146b3dc6f60ca3b7de619b68fc3904b4f03155b255fa425d7d7bd36ae9\\PropertyPathWorker.cs",
-              "ToolTip": "C:\\Users\\spide\\AppData\\Local\\Temp\\.vsdbgsrc\\1b77cb146b3dc6f60ca3b7de619b68fc3904b4f03155b255fa425d7d7bd36ae9\\PropertyPathWorker.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Users\\spide\\AppData\\Local\\Temp\\.vsdbgsrc\\1b77cb146b3dc6f60ca3b7de619b68fc3904b4f03155b255fa425d7d7bd36ae9\\PropertyPathWorker.cs",
-              "ViewState": "AgIAAPIDAAAAAAAAAAAmwPkDAAApAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T15:46:00.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShopView.xaml",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\Views\\ShopView.xaml",
-              "RelativeDocumentMoniker": "ElPerrito.WPF\\Views\\ShopView.xaml",
-              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\Views\\ShopView.xaml",
-              "RelativeToolTip": "ElPerrito.WPF\\Views\\ShopView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-03T17:17:22.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ElPerrito.Domain.csproj",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Domain\\ElPerrito.Domain.csproj",
-              "RelativeDocumentMoniker": "ElPerrito.Domain\\ElPerrito.Domain.csproj",
-              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Domain\\ElPerrito.Domain.csproj",
-              "RelativeToolTip": "ElPerrito.Domain\\ElPerrito.Domain.csproj",
+              "DocumentIndex": 41,
+              "Title": "ElPerrito.WPF.csproj",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\ElPerrito.WPF.csproj",
+              "RelativeDocumentMoniker": "ElPerrito.WPF\\ElPerrito.WPF.csproj",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.WPF\\ElPerrito.WPF.csproj",
+              "RelativeToolTip": "ElPerrito.WPF\\ElPerrito.WPF.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-01T21:16:16.297Z"
+              "WhenOpened": "2025-12-12T04:42:23.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Logging\\Logger.cs",
+              "RelativeDocumentMoniker": "ElPerrito.Core\\Logging\\Logger.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\elperrito\\Aplicacion\\ElPerrito.Core\\Logging\\Logger.cs",
+              "RelativeToolTip": "ElPerrito.Core\\Logging\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:38:03.329Z"
             }
           ]
         }
